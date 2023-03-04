@@ -21,7 +21,7 @@ h1 {
   background-color: #e5e5e5;
 }
 .contact-h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "Inter", sans-serif;
   margin: 20px 20px 20px 30px;
 }
 .contact-form {
@@ -29,4 +29,5 @@ h1 {
 }
 .button-form {
   margin-left: 30px;
+  margin-bottom: 30px;
 }
